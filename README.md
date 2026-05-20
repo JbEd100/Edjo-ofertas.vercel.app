@@ -1,4 +1,3 @@
-# Edjo-ofertas.vercel.app
 export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
   const products = [
     {
