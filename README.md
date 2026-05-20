@@ -1,5 +1,5 @@
 # Edjo-ofertas.vercel.app/page.js
-export default function MercadoLivreAffiliateSite() {
+export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
   const products = [
     {
       title: 'Copo Térmico Stanley',
