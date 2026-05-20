@@ -1,1 +1,1 @@
-# Edjo-ofertas.vercel.app
+# Edjo-ofertas.vercel.app/page.js
