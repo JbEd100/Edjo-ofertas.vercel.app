@@ -13,7 +13,7 @@ export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
       title: 'Smartphone Android Premium',
       description: 'Celular com ótimo desempenho e câmera profissional.',
       image: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200&auto=format&fit=crop',
-      link: 'https://mercadolivre.com.br/seu-link-afiliado-2',
+      link: 'https://mercadolivre.com.br/https://meli.la/2WyMDxf',
       price: 'R$ 1.299,90',
       category: 'Eletrônicos'
     },
@@ -21,7 +21,7 @@ export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
       title: 'Aparelho de Barbear Profissional',
       description: 'Barbear rápido e preciso para o dia a dia.',
       image: 'https://images.unsplash.com/photo-1519014816548-bf5fe059798b?q=80&w=1200&auto=format&fit=crop',
-      link: 'https://mercadolivre.com.br/seu-link-afiliado-3',
+      link: 'https://mercadolivre.com.br/https://meli.la/2WyMDxf',
       price: 'R$ 129,90',
       category: 'Cuidados Pessoais'
     },
@@ -29,7 +29,7 @@ export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
       title: 'Fone Bluetooth Gamer',
       description: 'Som imersivo e bateria de longa duração.',
       image: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop',
-      link: 'https://mercadolivre.com.br/seu-link-afiliado-4',
+      link: 'https://mercadolivre.com.br/https://meli.la/2WyMDxf',
       price: 'R$ 199,90',
       category: 'Gamer'
     },
@@ -37,7 +37,7 @@ export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
       title: 'Notebook Ultrafino',
       description: 'Ideal para trabalho, estudos e produtividade.',
       image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop',
-      link: 'https://mercadolivre.com.br/seu-link-afiliado-5',
+      link: 'https://mercadolivre.com.br/https://meli.la/2WyMDxf',
       price: 'R$ 2.899,90',
       category: 'Tecnologia'
     },
@@ -45,7 +45,7 @@ export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
       title: 'Air Fryer Digital',
       description: 'Prepare receitas rápidas e saudáveis.',
       image: 'https://images.unsplash.com/photo-1585515656973-6e9e7f1b9f8f?q=80&w=1200&auto=format&fit=crop',
-      link: 'https://mercadolivre.com.br/seu-link-afiliado-6',
+      link: 'https://mercadolivre.com.br/https://meli.la/2WyMDxf',
       price: 'R$ 349,90',
       category: 'Casa'
     }
