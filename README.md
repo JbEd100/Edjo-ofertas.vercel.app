@@ -4,7 +4,7 @@ export default function MercadoLivreAffiliateSite(https://meli.la/2WyMDxf) {
       title: 'Copo Térmico Stanley',
       description: 'O copo térmico mais vendido para bebidas geladas.',
       image: 'https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?q=80&w=1200&auto=format&fit=crop',
-      link: 'https://mercadolivre.com.br/https://meli.la/2WyMDxf',
+      link: 'https://mercadolivre.com.br/meli.la/2WyMDxf',
       price: 'R$ 89,90',
       category: 'Mais Vendidos'
     },
